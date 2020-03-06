@@ -1,0 +1,1 @@
+del /s /q C:\\Users\\kdr-server\\Desktop\\HiyobiBOT\\pdf_tmp\\*.pdf
