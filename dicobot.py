@@ -222,7 +222,7 @@ def Ngrok():
 
 publicURL = Ngrok()
 client = Client()
-token = 'NjM0OTg0NDIxNTg5Nzc4NDQz.XkF_Ww.yXgcZhq7SNy8BcoH6RJAQjd-Lco'
+token = 'Your discord token'
 
 
 @client.event
